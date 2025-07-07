@@ -72,7 +72,3 @@ _localizationController.SetCurrentLocale(selectedIndex);
 ## Contributing
 
 Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
-
-## License
-
-MIT License
